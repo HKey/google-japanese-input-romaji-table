@@ -13,6 +13,14 @@ Google日本語入力用ローマ字テーブル
 *  dvorakjp-edited.txt - DvorakJP-配列用のローマ字テーブル修正拡張版
 
 
+### ディレクトリについて
+
+* en - 英語キーボードDvorak配列用のディレクトリ
+* jp - 日本語キーボードDvorak配列用のディレクトリ
+
+日本語キーボードでのDvorak配列は、[Dvorak Simplified Keyboard for Japanese](http://www4.point.ne.jp/~ryke/)で定義されているものを想定しています。
+
+
 使い方
 ----
 
