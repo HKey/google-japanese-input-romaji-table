@@ -2,29 +2,18 @@ Google日本語入力用ローマ字テーブル
 ====
 
 
-[yuzuemon/google-japanese-input-romaji-table](https://github.com/yuzuemon/google-japanese-input-romaji-table)の`dvorakjp-.txt`を修正・拡張した`dvorakjp-edited.txt`を追加したものです。
+[yuzuemon/google-japanese-input-romaji-table](https://github.com/yuzuemon/google-japanese-input-romaji-table)の`dvorakjp-.txt`を修正・拡張したローマ字テーブルです。
 
 
 内容
 ----
 
-*  dvorak-jp.txt - DvorakJP配列用のローマ字テーブル
-*  dvorakjp-.txt - DvorakJP-配列用のローマ字テーブル
-*  dvorakjp-edited.txt - DvorakJP-配列用のローマ字テーブル修正拡張版
-
-
-### ディレクトリについて
-
-* en - 英語キーボードDvorak配列用のディレクトリ
-* jp - 日本語キーボードDvorak配列用のディレクトリ
-
-日本語キーボードでのDvorak配列は、[Dvorak Simplified Keyboard for Japanese](http://www4.point.ne.jp/~ryke/)で定義されているものを想定しています。
-
+*  dvorakjp-edited.txt - DvorakJP-配列用のローマ字テーブル修正拡張版（英語キーボード用）
 
 使い方
 ----
 
-Google日本語入力の環境設定ダイアログを開き、ローマ字テーブルのカスタマイズボタンを押して、編集ボタンの「ファイルからインポート」を選び、`dvorak-jp.txt`または`dvorakjp-.txt`または`dvorakjp-edited.txt`を読み込みます。
+Google日本語入力の環境設定ダイアログを開き、ローマ字テーブルのカスタマイズボタンを押して、編集ボタンの「ファイルからインポート」を選び、`dvorakjp-edited.txt`を読み込みます。
 
 
 `dvorakjp-edited.txt`について
